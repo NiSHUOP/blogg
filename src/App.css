@@ -9,7 +9,7 @@ height: 100vh;
   height: 80px;
  } 
 .contain{
-    background: rgb(248, 242, 250);
+    background: rgba(255, 255, 255, 0.308);
     width: 25vw;
 }
 .btnGroup{
